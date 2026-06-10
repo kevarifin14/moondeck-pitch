@@ -153,7 +153,7 @@ Lower it to a sentence, and ideas that would've died in a doc actually land."
 
 ### 14 — Install it · *CTA*
 **Idea:** You did the work. MoonDeck makes the presentation.
-**On screen:** "You did the work. MoonDeck makes the presentation." · install line.
+**On screen:** "You did the work. MoonDeck makes the presentation." · install line · QR card to the download link.
 **Say:** "Your work is already spread across your tools. MoonDeck turns it into the presentation —
 on your machine, with the AI you already pay for. Install it."
 **The action:** install MoonDeck.
